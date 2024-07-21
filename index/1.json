@@ -20892,7 +20892,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "html2text",
-                    "beautifulsoup4"
+                    "beautifulsoup4",
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
                 ],
                 "short": "Pull up biblical verses fast",
                 "tags": [
@@ -21011,7 +21012,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
                 "short": "A simple Snake Game on discord",
                 "tags": [
                     "games",
@@ -21032,7 +21035,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
                 "short": "Multi Snipe for fun and non-profit",
                 "tags": [
                     "fun",
@@ -21075,7 +21080,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
                 "short": "A simple todo list",
                 "tags": [
                     "utility"
