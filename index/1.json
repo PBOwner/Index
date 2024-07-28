@@ -20995,8 +20995,7 @@
                 "short": "A custom help",
                 "tags": [
                     "help",
-                    "utility",
-                    "fun"
+                    "utility"
                 ],
                 "type": "COG"
             },
